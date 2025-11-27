@@ -4,4 +4,8 @@ background-color: darkorchid(209, 67,67);
 } 
 header{
  border-bottom:  solid 2px rgb(rgb(140, 0, 255)) ;
-  
+ padding: 20px;
+ font-size: 32px;
+ color: blueviolet
+ background:black;
+}
