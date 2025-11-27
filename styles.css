@@ -1,13 +1,13 @@
 body{
-   color:blueviolet(194, 134, 250);
-background-color: darkorchid(209, 67,67);
+color: blueviolet;
+background: mistyrose;
 } 
 header{
  border-bottom:  solid 2px rgb(rgb(140, 0, 255)) ;
  padding: 20px;
  font-size: 32px;
- color: rgb(196, 149, 240)
- background:black;
+ color: rgb(196, 149, 240);
+ background: deepskyblue;
 
 }
 .chamada{
