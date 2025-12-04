@@ -18,5 +18,18 @@ header{
    justify-content: center;
 }
 .categorias_videos{
-    
+   background-color: aliceblue;
+   padding-bottom: 100px;
+   padding-top: 100px;
+   display: flex;
+   justify)content: center;
 }
+.categorias_videos{
+   display: flex;
+   overflow: auto;
+   gap: 15px;
+}  
+   .categorias{
+      padding: 20px;
+      padding-right: 20px;
+   }
